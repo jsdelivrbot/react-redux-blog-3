@@ -15,3 +15,4 @@ class PostsIndex extends Component {
 }
 
 export default connect(null, { fetchPosts })(PostsIndex);
+//note
